@@ -1,6 +1,6 @@
 # 🐍 Advance Python Learning Journey
 
-Welcome to my Python learning repository! This repository contains my daily code, practice exercises, notes, and projects as I learn Python step by step.
+Welcome to my Python learning repository! This repository contains  daily code, practice exercises, notes, and projects as I learn Python step by step.
 
 ---
 
