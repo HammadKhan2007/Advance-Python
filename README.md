@@ -10,7 +10,7 @@ Welcome to my Python learning repository! This repository contains  daily code, 
 |:---:|:---|:---|:---:|
 | **Day 01** | Python Basics, Syntax, Variables & Data Types | [`Day-01-Python-Basics`](./Day-01-Python-Basics/) | ✅ Completed |
 | **Day 02** | Strings Manipulation, f-strings & User Input | [`Day-02-Strings-And-User-Input`](./Day-02-Strings-And-User-Input/) | ✅ Completed |
-| **Day 03** | Conditionals (if, elif, else) & Logic | `Day-03-Conditionals` | ⏳ Upcoming |
+| **Day 03** | Conditionals (if, elif, else) & Logic | [`Day-03-Conditionals-And-Logic`](./Day-03-Conditionals-And-Logic/) | ✅ Completed |
 | **Day 04** | Loops (for, while) & Iterations | `Day-04-Loops` | ⏳ Upcoming |
 | **Day 05** | Functions & Scope | `Day-05-Functions` | ⏳ Upcoming |
 
@@ -41,7 +41,14 @@ Advance Python/
 │   ├── practice_tasks.py
 │   └── notes.md
 │
-├── Day-03-Conditionals/               # Day 03 folder
+├── Day-03-Conditionals-And-Logic/     # Day 03 folder
+│   ├── 01_if_else_basics.py
+│   ├── 02_elif_and_logical_operators.py
+│   ├── 03_nested_conditions_and_ternary.py
+│   ├── practice_tasks.py
+│   └── notes.md
+│
+├── Day-04-Loops/                      # Day 04 folder
 │   └── ...
 │
 └── ...
