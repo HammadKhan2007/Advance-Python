@@ -5,6 +5,8 @@
    - `print()` function console par message display karne ke liye use hota hai.
    - `sep` aur `end` parameters print ke formatting controls hain.
 
+
+
 2. **Data Types in Python**:
    - `str` (String): Text data, quotes ke andar (`"Hello"`, `'Python'`)
    - `int` (Integer): Baghair decimal ke whole numbers (`10`, `-5`)
