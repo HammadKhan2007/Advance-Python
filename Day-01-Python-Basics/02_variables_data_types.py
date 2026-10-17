@@ -5,7 +5,10 @@ student_name = "Hammad"          # str (String)
 age = 18                         # int (Integer)
 course_progress = 1.0            # float (Floating point number)
 is_learning_active = True        # bool (Boolean)
-dateofstart = "2026-10-16"             # str (String)
+dateofstart = "2026-10-16" 
+print(student_name[1])
+print(student_name[1:6:2]) # Slicing the string from index 1 to 6 with a step of 2
+
 
 # Printing variables and their data types
 print("Student Name:", student_name, "| Type:", type(student_name))
