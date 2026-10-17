@@ -21,6 +21,14 @@ print("Date of Start:", dateofstart, "| Type:", type(dateofstart))
 str_num = "50"
 converted_num = int(str_num)
 print("Converted to integer:", converted_num + 50)
+b = 0
+print(bool(b))  # False, because 0 is considered False
+age_khan = 18 
+print(str(age_khan))  # Converts integer to string
+a = 13
+a = str(a)
+print((a), type(a))  # Converts integer to string and prints its type
+ 
 name = "Hammad"
 future_goals = "Becoming a Data Scientist"
 semester = 3
