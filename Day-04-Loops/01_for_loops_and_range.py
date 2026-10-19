@@ -40,7 +40,7 @@ for even in range(2, 11, 2):
 print("\n--- 3D. Countdown from 5 to 1 ---")
 for count in range(5, 0, -1):
     print(f"Countdown: {count}...")
-print("Liftoff! 🚀")
+print("Liftoff! [Success]")
 
 # 4. Practical Example: Sum of Numbers from 1 to 100
 total_sum = 0
