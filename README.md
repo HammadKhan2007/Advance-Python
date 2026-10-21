@@ -11,7 +11,7 @@ Welcome to my Python learning repository! This repository contains  daily code, 
 | **Day 01** | Python Basics, Syntax, Variables & Data Types | [`Day-01-Python-Basics`](./Day-01-Python-Basics/) | ✅ Completed |
 | **Day 02** | Strings Manipulation, f-strings & User Input | [`Day-02-Strings-And-User-Input`](./Day-02-Strings-And-User-Input/) | ✅ Completed |
 | **Day 03** | Conditionals (if, elif, else) & Logic | [`Day-03-Conditionals-And-Logic`](./Day-03-Conditionals-And-Logic/) | ✅ Completed |
-| **Day 04** | Loops (for, while) & Iterations | `Day-04-Loops` | ⏳ Upcoming |
+| **Day 04** | Loops (for, while) & Iterations | [`Day-04-Loops`](./Day-04-Loops/) | ✅ Completed |
 | **Day 05** | Functions & Scope | `Day-05-Functions` | ⏳ Upcoming |
 
 ---
@@ -49,7 +49,15 @@ Advance Python/
 │   └── notes.md
 │
 ├── Day-04-Loops/                      # Day 04 folder
-│   └── ...
+│   ├── 01_for_loops_and_range.py
+│   ├── 02_while_loops.py
+│   ├── notes.md
+│   └── practice_tasks.py
+│
+├── Day-05-Functions/                  # Day 05 folder
+│   ├── 01_function_basics.py
+│   ├── notes.md
+│   └── practice_tasks.py
 │
 └── ...
 ```
