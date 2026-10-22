@@ -55,7 +55,7 @@ print(f"Even numbers: {even_numbers}")
 
 # 7. Tuples
 print("\n--- 7. Tuples ---")
-coordinates = ( Karachi", 24.8607, 67.0011)
+coordinates = ("Karachi", 24.8607, 67.0011)
 print(coordinates)
 print(f"City: {coordinates[0]}")
 print(f"Tuple length: {len(coordinates)}")
