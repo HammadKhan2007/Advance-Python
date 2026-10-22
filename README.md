@@ -40,6 +40,14 @@ Advance Python/
 │   ├── 01_dictionaries_and_sets_basics.py
 │   ├── notes.md
 │   └── practice_tasks.py
+│
+├── Day-06-Collections/                # Day 06 folder
+│   ├── 01_lists.py
+│   ├── 02_tuples_sets.py
+│   ├── 03_dictionaries.py
+│   ├── notes.md
+│   └── practice_tasks.py
+│
 └── ...
 ```
 
