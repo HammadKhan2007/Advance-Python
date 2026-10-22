@@ -12,7 +12,8 @@ Welcome to my Python learning repository! This repository contains  daily code, 
 | **Day 02** | Strings Manipulation, f-strings & User Input | [`Day-02-Strings-And-User-Input`](./Day-02-Strings-And-User-Input/) | ✅ Completed |
 | **Day 03** | Conditionals (if, elif, else) & Logic | [`Day-03-Conditionals-And-Logic`](./Day-03-Conditionals-And-Logic/) | ✅ Completed |
 | **Day 04** | Loops (for, while) & Iterations | [`Day-04-Loops`](./Day-04-Loops/) | ✅ Completed |
-| **Day 05** | Functions & Scope | `Day-05-Functions` | ⏳ Upcoming |
+| **Day 05** | Functions & Scope | [`Day-05-Functions`](./Day-05-Functions/) | ✅ Completed |
+| **Day 06** | Collections: Lists, Tuples, Sets & Dictionaries | [`Day-06-Collections`](./Day-06-Collections/) | ✅ Completed |
 
 ---
 
@@ -56,6 +57,13 @@ Advance Python/
 │
 ├── Day-05-Functions/                  # Day 05 folder
 │   ├── 01_function_basics.py
+│   ├── notes.md
+│   └── practice_tasks.py
+│
+├── Day-06-Collections/                # Day 06 folder
+│   ├── 01_lists.py
+│   ├── 02_tuples_sets.py
+│   ├── 03_dictionaries.py
 │   ├── notes.md
 │   └── practice_tasks.py
 │
