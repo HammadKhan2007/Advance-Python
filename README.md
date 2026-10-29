@@ -15,6 +15,7 @@ Welcome to my Python learning repository! This repository contains daily code, p
 | **Day 05** | Functions & Scope | [`Day-05-Functions`](./Day-05-Functions/) | ✅ Completed |
 | **Day 06** | Lists, Tuples, Slicing & List Comprehensions | [`Day-06-Lists-And-Tuples`](./Day-06-Lists-And-Tuples/) | ✅ Completed |
 | **Day 07** | Dictionaries, Sets & Set Operations | [`Day-07-Dictionaries-And-Sets`](./Day-07-Dictionaries-And-Sets/) | ✅ Completed |
+| **Day 08** | File Handling (I/O), JSON & Exception Handling | [`Day-08-File-And-Exception-Handling`](./Day-08-File-And-Exception-Handling/) | ✅ Completed |
 
 ---
 
@@ -40,11 +41,10 @@ Advance Python/
 │   ├── 01_dictionaries_and_sets_basics.py
 │   ├── notes.md
 │   └── practice_tasks.py
-│
-├── Day-06-Collections/                # Day 06 folder
-│   ├── 01_lists.py
-│   ├── 02_tuples_sets.py
-│   ├── 03_dictionaries.py
+├── Day-08-File-And-Exception-Handling/
+│   ├── 01_file_handling_basics.py
+│   ├── 02_json_handling.py
+│   ├── 03_exception_handling.py
 │   ├── notes.md
 │   └── practice_tasks.py
 │
@@ -58,5 +58,5 @@ Advance Python/
 Kisi bhi file ko run karne ke liye terminal mein us file ka path pass karein:
 
 ```bash
-python Day-07-Dictionaries-And-Sets/01_dictionaries_and_sets_basics.py
+python Day-08-File-And-Exception-Handling/01_file_handling_basics.py
 ```
